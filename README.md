@@ -1,3 +1,5 @@
 # cen4802
- CEN 4802 SW Integration
- Christina Burris
+<ul>
+<li>CEN 4802 SW Integration</li> 
+<li>Christina Burris</li>
+</ul>
