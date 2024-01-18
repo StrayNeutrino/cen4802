@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"fibonacci","c":"Fibonacci","l":"fib(int)"},{"p":"fibonacci","c":"Fibonacci","l":"Fibonacci()","u":"%3Cinit%3E()"},{"p":"fibonacci","c":"Fibonacci","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
